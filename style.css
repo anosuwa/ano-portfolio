@@ -1,0 +1,39 @@
+body{
+margin: 1cm;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{font:50px }
+h1 span{color : blue;}
+h1{font-weight: bold;}
+
+p{color: rgb(105, 88, 88);}
+p{display: block;
+margin-block-start: 1cm;
+margin-block-end: 1cm;
+margin-inline-start: 0px;
+margin-inline-end: 0px;}
+
+.half-width 
+{width:35%;
+margin-left: 5%;
+padding-left: 2%;
+float: left;
+padding-right: 2%;
+}
+
+.anchor-button {
+text-decoration: none;
+background-image:linear-gradient( tomato,pink);
+padding: 10px 40px;
+border: .5px;
+border-radius: 5px;
+color:rgb(110, 114, 110);
+font-size: 20px;
+margin: 1px;}
+
+section{
+padding: bottom 150px;
+height: 100px;
+display: block;}
+
